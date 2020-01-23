@@ -1,2 +1,3 @@
 # NN-and-Glassy-Systems---Master-thesis
-The code I have used and my full Master thesis: Trapping Time in Neural Networks - a Glassy System perspective
+
+This is the final result of my work on my Master thesis, which was the final part of my King's College London MSc in Complex Systems Modelling. In my work, I investigate if neural networks can be investigated with the tools employed in physical study of glassy systems, such as trapping time analysis. The code has plenty of comments which should aid the review, but to really understand it, it is recommended to read the Master thesis write up, which explains the overarching logic of the code and the meaning of teh results. Please feel free to contact me/comment in case of any questions.
